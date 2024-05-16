@@ -11,7 +11,7 @@ Demo project using reactive programming, base on Spring 6 WebFlux.fn
 ## Related Repositories
 
 The folowing Repositories are also part of the course:
-- [Main Repo - Spring MVC RestAPI](https://www.udemy.com/course/spring-framework-6-beginner-to-guru)
+- [Main Repo - Spring MVC RestAPI](https://github.com/EderBasso/spring-framework-6)
 - [Spring REST Template Client](https://github.com/EderBasso/spring-6-resttemplate)
 - [Spring Auth Server](https://github.com/EderBasso/spring-6-auth-server)
 - [Spring Reactive Examples With Web Flux MVC](https://github.com/EderBasso/spring-6-reactive-examples)
